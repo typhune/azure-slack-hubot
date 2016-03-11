@@ -1,0 +1,13 @@
+[
+  "hubot-diagnostics",
+  "hubot-thank-you",
+  "hubot-help",
+  "hubot-google-images",
+  "hubot-google-translate",
+  #”hubot-pugme",
+  "hubot-maps",
+  "hubot-rules",
+  “abstract”,
+  "hubot-shipit",
+  "hubot-azure-scripts/brain/storage-blob-brain"
+]
