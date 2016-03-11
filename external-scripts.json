@@ -5,9 +5,9 @@
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-maps",
-  “abstract”,
-  “hubot—seen”,
-  “hubot-ambush”,
+  "abstract",
+  "hubot—seen",
+  "hubot-ambush",
   "hubot-shipit",
   "hubot-azure-scripts/brain/storage-blob-brain"
 ]
